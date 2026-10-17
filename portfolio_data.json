@@ -1,0 +1,117 @@
+{
+  "stocks": {
+    "AAPL": {
+      "symbol": "AAPL",
+      "name": "Apple",
+      "price": 180.0,
+      "sector": "Technology",
+      "history": [
+        180.0
+      ]
+    },
+    "TSLA": {
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "price": 250.0,
+      "sector": "Automotive",
+      "history": [
+        250.0
+      ]
+    },
+    "MSFT": {
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "price": 420.0,
+      "sector": "Technology",
+      "history": [
+        420.0
+      ]
+    },
+    "GOOGL": {
+      "symbol": "GOOGL",
+      "name": "Alphabet",
+      "price": 175.0,
+      "sector": "Technology",
+      "history": [
+        175.0
+      ]
+    },
+    "AMZN": {
+      "symbol": "AMZN",
+      "name": "Amazon",
+      "price": 190.0,
+      "sector": "Consumer",
+      "history": [
+        190.0
+      ]
+    },
+    "NVDA": {
+      "symbol": "NVDA",
+      "name": "Nvidia",
+      "price": 930.0,
+      "sector": "Technology",
+      "history": [
+        930.0
+      ]
+    },
+    "META": {
+      "symbol": "META",
+      "name": "Meta Platforms",
+      "price": 520.0,
+      "sector": "Technology",
+      "history": [
+        520.0
+      ]
+    },
+    "NFLX": {
+      "symbol": "NFLX",
+      "name": "Netflix",
+      "price": 610.0,
+      "sector": "Entertainment",
+      "history": [
+        610.0
+      ]
+    },
+    "JPM": {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase",
+      "price": 198.0,
+      "sector": "Finance",
+      "history": [
+        198.0
+      ]
+    },
+    "KO": {
+      "symbol": "KO",
+      "name": "Coca-Cola",
+      "price": 62.0,
+      "sector": "Consumer",
+      "history": [
+        62.0
+      ]
+    },
+    "DIS": {
+      "symbol": "DIS",
+      "name": "Disney",
+      "price": 112.0,
+      "sector": "Entertainment",
+      "history": [
+        112.0
+      ]
+    },
+    "INTC": {
+      "symbol": "INTC",
+      "name": "Intel",
+      "price": 34.0,
+      "sector": "Technology",
+      "history": [
+        34.0
+      ]
+    }
+  },
+  "portfolio": {},
+  "transactions": [],
+  "watchlist": [],
+  "alerts": [],
+  "cash": 100000.0
+}
